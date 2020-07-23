@@ -22,7 +22,7 @@ namespace Control_operators
 
         public PropertiesFileReName()
         {
-            NamePath = @"C:\Users\denis lipatov\Desktop\newpictures";
+            NamePath = @"";
 
             FileName= Directory.GetFiles(NamePath);
 
